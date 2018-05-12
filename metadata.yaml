@@ -1,0 +1,32 @@
+_repo: The-Russian-TurmoilMemoirs--Military-Social-and-Political_43680
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Denikin, Anton Ivanovich
+    aliases:
+    - Denikin, A. I.‏ (Anton Ivanovich)
+    - Denikine, A.‏ (Anton)
+    - Деникин, Антон Иванович
+    birthdate: 1872
+    deathdate: 1947
+    gutenberg_agent_id: '42360'
+    url: http://www.gutenberg.org/2009/agents/42360
+description: ''
+gutenberg_issued: '2013-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soviet Union -- Politics and government -- 1917-1936'
+- !lcc 'DK'
+- !lcsh 'Soviet Union. Sovetskaia Armiia'
+- !lcsh 'Soviet Union -- History -- Revolution, 1917-1921'
+title: 'The Russian Turmoil; Memoirs: Military, Social, and Political'
+url: http://www.gutenberg.org/ebooks/43680
